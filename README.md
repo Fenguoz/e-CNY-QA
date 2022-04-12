@@ -21,11 +21,11 @@
 
 ### 生活类
 
-- 全面数字化支付生活即将到来，会不会给老人带来很多不方便？
-- 他人碰一碰我的手机会偷走我的钱吗？
-- 商户收款什么时候结算？
-- 商户收款有手续费吗？
-- 数字人民币会取代支付宝/微信吗？
+- [全面数字化支付生活即将到来，会不会给老人带来很多不方便？](https://github.com/Fenguoz/e-CNY-QA/issues/5)
+- [别人手机碰一碰我的手机会偷走我的钱吗？](https://github.com/Fenguoz/e-CNY-QA/issues/6)
+- [商户收款什么时候结算？](https://github.com/Fenguoz/e-CNY-QA/issues/7)
+- [商户收款有手续费吗？](https://github.com/Fenguoz/e-CNY-QA/issues/8)
+- [数字人民币会取代支付宝/微信吗？](https://github.com/Fenguoz/e-CNY-QA/issues/9)
 
 ### 技术类
 
